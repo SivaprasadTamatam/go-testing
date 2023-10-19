@@ -1,0 +1,10 @@
+mode: set
+github.com/gotesting/go-testing/benchmark/benchmark.go:3.36,4.12 1 1
+github.com/gotesting/go-testing/benchmark/benchmark.go:4.12,6.3 1 1
+github.com/gotesting/go-testing/benchmark/benchmark.go:7.2,7.58 1 1
+github.com/gotesting/go-testing/benchmark/benchmark.go:10.27,12.2 1 1
+github.com/gotesting/go-testing/mathutil/mathutil.go:5.24,7.2 1 1
+github.com/gotesting/go-testing/mathutil/mathutil.go:9.36,10.12 1 1
+github.com/gotesting/go-testing/mathutil/mathutil.go:10.12,12.3 1 1
+github.com/gotesting/go-testing/mathutil/mathutil.go:14.2,14.19 1 1
+github.com/gotesting/go-testing/mathutil/mathutil.go:17.29,19.2 1 1
