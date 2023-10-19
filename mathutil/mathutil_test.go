@@ -16,6 +16,12 @@ func TestDivide(t *testing.T) {
 	if err == nil {
 		t.Errorf("Expected an error bot got result: %d", result)
 	}
+
+	result, err = Divide(6, 2)
+
+	if result != 3 {
+		t.Errorf("Expected 3, but  got result: %d", result)
+	}
 }
 
 var multiTests = []struct {
